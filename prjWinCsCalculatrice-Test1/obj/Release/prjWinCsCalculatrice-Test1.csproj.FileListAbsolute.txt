@@ -1,0 +1,7 @@
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice-Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice_Test1.frmScientifique.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice_Test1.frmStandard.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice_Test1.frmPrincipal.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice_Test1.Properties.Resources.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice-Test1.csproj.GenerateResource.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Release\prjWinCsCalculatrice-Test1.csproj.CoreCompileInputs.cache

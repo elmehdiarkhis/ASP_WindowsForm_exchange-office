@@ -1,0 +1,15 @@
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.frmPrincipal.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.Properties.Resources.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.csproj.GenerateResource.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.csproj.CoreCompileInputs.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\bin\Debug\prjWinCsCalculatrice-Test1.exe.config
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\bin\Debug\prjWinCsCalculatrice-Test1.exe
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\bin\Debug\prjWinCsCalculatrice-Test1.pdb
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.exe
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.pdb
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.frmStand.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice-Test1.csproj.AssemblyReference.cache
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.frmScien.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.frmChange.resources
+C:\Users\elmehdi\Documents\exercice c#\prjWinCsCalculatrice-Test1\prjWinCsCalculatrice-Test1\obj\Debug\prjWinCsCalculatrice_Test1.frmChangeDollar.resources
